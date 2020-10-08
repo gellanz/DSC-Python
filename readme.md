@@ -1,4 +1,4 @@
-# Curso
+# Cursos de Python por parte del DSC-UPIITA
 
 [![N|Solid](https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-dsc/contentbuilder/logo_hPnue3j.svg)](https://nodesource.com/products/nsolid)
 
