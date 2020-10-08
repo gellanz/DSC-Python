@@ -11,7 +11,7 @@
 
 - Requieren tener python instalado [Python](https://www.python.org/) 
 - Requieren tener [Jupyter Notebook](https://jupyter.org/)
-- Una forma efectiva de tenero los dos de una forma rapida es instalar [Anaconda](https://www.anaconda.com/products/individual)
+- Una forma efectiva de tenero los dos es instalar [Anaconda](https://www.anaconda.com/products/individual)
 
 
 | Red Social | Link |
