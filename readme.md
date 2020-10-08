@@ -6,7 +6,7 @@
 
   - Curso basico de Python 
   - Curso de Numpy
-#Recurso
+# Recurso
 - Presentacion [Aqui](https://docs.google.com/presentation/d/1CQZr2zmjBekqYLCm3Rh-M-KNxGWZ2j85Aw8Bru4wHXU/edit?usp=sharing)
 
 ### Requerimientos
