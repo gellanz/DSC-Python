@@ -6,6 +6,8 @@
 
   - Curso basico de Python 
   - Curso de Numpy
+#Recurso
+- Presentacion [Aqui](https://docs.google.com/presentation/d/1CQZr2zmjBekqYLCm3Rh-M-KNxGWZ2j85Aw8Bru4wHXU/edit?usp=sharing)
 
 ### Requerimientos
 
@@ -18,6 +20,7 @@
 | ------ | ------ |
 | Facebook| [Developer Student Club Facebook](https://www.facebook.com/dscipnupiita) |
 | Instram | [Developer Student Club Instagram](https://www.instagram.com/dscipnupiita/) |
+
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
