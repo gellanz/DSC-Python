@@ -2,11 +2,11 @@
 
 [![N|Solid](https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-dsc/contentbuilder/logo_hPnue3j.svg)](https://nodesource.com/products/nsolid)
 
-# En este repositorio podran ver lo que hemos hecho en las sesiones en vivo
+## En este repositorio podran ver lo que hemos hecho en las sesiones en vivo
 
   - Curso basico de Python 
   - Curso de Numpy
-# Recursos
+### Recursos
 - Presentacion [Aqui](https://docs.google.com/presentation/d/1CQZr2zmjBekqYLCm3Rh-M-KNxGWZ2j85Aw8Bru4wHXU/edit?usp=sharing)
 
 ### Requerimientos
